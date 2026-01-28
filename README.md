@@ -25,20 +25,23 @@ This project demonstrates **data modeling (star schema)**, **Power Query transfo
 
 ## Screenshots
 
-### Dashboard
-![Dashboard](screenshots_01_dashboard.png)
-![Dashboard](Screenshot_02_Filter on this page_dashboard.png)
+### Dashboard (Report)
+![Dashboard](01_dashboard.png)
+
+### Dashboard (Filter)
+![Dashboard](02_dashbord_Filter.png)
 
 ### Star Schema (Model View)
-![Star Schema](screenshots_03_Model_Star-Schema.png)
+![Star Schema](03_Model_Star-Schema.png)
 
 ### DAX Measures
-![DAX Measures](Screenshot_04_DAX_Measures_Profit_Sales_Profit Margin.png)
+![DAX Measures](04_DAX_Measures.png)
 
 ### Power Query Steps (ETL)
-![Power Query](Screenshot_05_ power_query_fact_financials.png)
+![Power Query](05_ power_query_fact.png)
+
 ### Power Query Steps (ETL)
-![Power Query](Screenshot_06_power_query_DimProduct.png)
+![Power Query](06_power_query_DimProduct.png)
 ---
 
 ## Skills Demonstrated
