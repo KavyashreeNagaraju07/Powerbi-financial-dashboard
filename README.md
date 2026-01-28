@@ -38,7 +38,7 @@ This project demonstrates **data modeling (star schema)**, **Power Query transfo
 ![DAX Measures](Screenshot_04_DAX_Measures_Profit_Sales_Profit Margin.png)
 
 ### Power Query Steps (ETL)
-![Power Query](Screenshot_05_ power_query_fact_financials.png)
+![Power Query](05_ power_query_fact.png)
 
 ### Power Query Steps (ETL)
 ![Power Query](Screenshot_06_power_query_DimProduct.png)
