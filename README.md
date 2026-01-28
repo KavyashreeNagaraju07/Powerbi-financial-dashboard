@@ -1,4 +1,4 @@
-# Powerbi-financial-dashboard
+# Power BI-financial-dashboard
 
 ## Overview
 Built an interactive Power BI dashboard using Microsoft’s **Financials** sample data to analyze sales and profitability.  
